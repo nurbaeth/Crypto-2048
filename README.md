@@ -22,7 +22,7 @@ Crypto 2048 is a decentralized version of the classic 2048 game implemented as a
   - `GameStarted(address player)` – Triggered when a new game starts.
   - `MoveMade(address player, uint256 newScore)` – Triggered after a move.
   - `GameOver(address player, uint256 finalScore)` – Triggered when the game ends.
-
+ 
 ## Deployment
 This contract is designed for Ethereum-compatible blockchains like Ethereum, Polygon, or Arbitrum. Use Hardhat or Remix to deploy and interact with it.
 
