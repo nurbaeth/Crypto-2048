@@ -12,7 +12,7 @@ Crypto 2048 is a decentralized version of the classic 2048 game implemented as a
 1. **Start a Game**: Call the `startGame()` function to initialize the board.
 2. **Make Moves**: Use `makeMove(direction)` to shift the board (0 = up, 1 = right, 2 = down, 3 = left).
 3. **Score Calculation**: The contract keeps track of your score as you merge tiles.
-4. **Game Over**: If no moves are available, the game ends, and your highest score is recorded.
+4. **Game Over**: If no moves are available, the game ends, and your highest score is recorded. 
 
 ## Smart Contract Overview 
 - **`startGame()`**: Initializes a new game session for the player.
