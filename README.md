@@ -19,7 +19,7 @@ Crypto 2048 is a decentralized version of the classic 2048 game implemented as a
 - **`makeMove(uint8 direction)`**: Moves tiles in the specified direction.
 - **`highScores(address player)`**: Retrieves the highest score of a given player.
 - **Events**:
-  - `GameStarted(address player)` – Triggered when a new game starts.
+  - `GameStarted(address player)` – Triggered when a new game starts. 
   - `MoveMade(address player, uint256 newScore)` – Triggered after a move.
   - `GameOver(address player, uint256 finalScore)` – Triggered when the game ends.
  
