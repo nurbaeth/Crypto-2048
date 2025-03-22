@@ -8,7 +8,7 @@ Crypto 2048 is a decentralized version of the classic 2048 game implemented as a
 - **Decentralized & Transparent**: Anyone can verify the game state at any time.
 - **Future Expansion**: Potential integration with token rewards or NFTs. 
 
-## How It Works
+## How It Works 
 1. **Start a Game**: Call the `startGame()` function to initialize the board.
 2. **Make Moves**: Use `makeMove(direction)` to shift the board (0 = up, 1 = right, 2 = down, 3 = left).
 3. **Score Calculation**: The contract keeps track of your score as you merge tiles.
