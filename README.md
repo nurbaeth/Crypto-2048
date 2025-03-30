@@ -6,7 +6,7 @@ Crypto 2048 is a decentralized version of the classic 2048 game implemented as a
 - **Fully On-Chain Gameplay**: All game logic is executed on the blockchain.
 - **Immutable Score Tracking**: Your highest score is recorded permanently.
 - **Decentralized & Transparent**: Anyone can verify the game state at any time.
-- **Future Expansion**: Potential integration with token rewards or NFTs.  
+- **Future Expansion**: Potential integration with token rewards or NFTs.   
 
 ## How It Works 
 1. **Start a Game**: Call the `startGame()` function to initialize the board.
